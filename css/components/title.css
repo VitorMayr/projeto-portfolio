@@ -1,0 +1,12 @@
+main h1{
+    font-family: var(--font-pixel);
+    font-size: 40px;
+    color: var(--color-2);
+    text-shadow: 4px 4px #000;
+}
+
+main h2{
+    font-size: 30px;
+    color: var(--color-white);
+    text-shadow: 4px 4px #000;
+}
