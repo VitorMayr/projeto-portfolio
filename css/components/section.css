@@ -1,0 +1,7 @@
+.section{
+    background: var(--color-1);
+    height: 702px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid var(--color-2);
+}
