@@ -1,0 +1,25 @@
+.banner{
+    box-sizing: border-box;
+    background-image: url(../../assets/img/Group\ 1\ \(1\).png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 746px;
+    border-bottom: 10px solid black;
+    padding-top: 115px;
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    margin: 115px;     
+}
+
+.banner .box{
+    margin-bottom: 38px;
+}
+
+.banner .navgation{
+    display: flex;
+    justify-content: space-around;
+}
