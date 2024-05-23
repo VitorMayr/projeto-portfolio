@@ -10,8 +10,11 @@
     margin-bottom: 60px;
 }
 
-.section.-second{
+.section.-bgBlack{
     background-color: black;
     height: 520px;
-    border-bottom: var(--color-1);
+}
+
+.section.-bdFirst{
+    border-color: var(--color-1);
 }
