@@ -1,4 +1,4 @@
-.section{
+.main-section{
     background: var(--color-1);
     height: 702px;
     padding-top: 50px;
@@ -6,20 +6,20 @@
     border-bottom: 10px solid var(--color-2);
 }
 
-.section .main-title{
+.main-section .main-title{
     margin-bottom: 60px;
 }
 
-.section.-bgBlack{
+.main-section.-bgBlack{
     background-color: black;
     height: 520px;
 }
 
-.section.-bdFirst{
+.main-section.-bdFirst{
     border-color: var(--color-1);
 }
 
-.section .wrapper-projects{
+.main-section .wrapper-projects{
     width: 1093px;
     height: 280px;
     margin: auto;
