@@ -18,3 +18,9 @@
 .section.-bdFirst{
     border-color: var(--color-1);
 }
+
+.section .wrapper-projects{
+    width: 1093px;
+    height: 280px;
+    margin: auto;
+}

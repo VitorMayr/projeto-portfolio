@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     box-sizing: border-box;
     background-image: url(../../assets/img/Group\ 1\ \(1\).png);
     background-size: 100%;
@@ -8,18 +8,22 @@
     padding-top: 115px;
 }
 
-.banner .wrapper{
+.main-banner .wrapper{
     display: flex;
     flex-direction: column;
     width: 640px;
     margin: 115px;     
 }
 
-.banner .box{
+.main-banner .box{
     margin-bottom: 38px;
 }
 
-.banner .navgation{
+.main-banner .wrapper-projects{
+    width: 1050px;
+
+}
+.main-banner .navgation{
     display: flex;
     justify-content: space-around;
 }
